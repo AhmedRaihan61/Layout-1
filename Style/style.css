@@ -1,0 +1,53 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+    text-align: center;
+}
+header {
+    background-color: rgba(219, 219, 105, 0.527);
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.container {
+    height: 400px;
+    width: 100%;
+    text-align: center;
+}
+
+.nav {
+    height: 400px;
+    width: 25%;
+    background-color: rgba(92, 168, 92, 0.664);
+    float: left;
+}
+
+.article {
+    height: 400px;
+    width: 48%;
+    background-color: rgba(102, 72, 44, 0.747);
+    float: left;
+    margin-right: 5px;
+    margin-left: 13px;
+    
+}
+
+.ads {
+    height: 400px;
+    width: 25%;
+    background-color: rgba(135, 96, 197, 0.466);
+    float: right;
+
+}
+
+footer {
+    width: 100%;
+    height: 50px;
+    background-color: rgba(57, 105, 99, 0.507);
+    margin-top: 10px;
+    text-align: center;
+    padding: 20px;
+}
